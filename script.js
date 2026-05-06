@@ -1,5 +1,7 @@
 function firstChar(text) {
   // your code here
+	let first = str[0];
+			return first;
 }
 
 // Do not change the code below
