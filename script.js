@@ -1,7 +1,8 @@
 function firstChar(text) {
   // your code here
-	let first = text[0];
-			return first;
+	for(let i=0; i<=text.length-1; i++){
+		return text[i];
+	}
 }
 
 // Do not change the code below
