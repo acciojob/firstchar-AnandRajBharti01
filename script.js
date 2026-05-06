@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	let first = str[0];
+	let first = text[0];
 			return first;
 }
 
